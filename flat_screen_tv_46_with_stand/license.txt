@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flat Screen TV 46" with stand
+* source:	https://sketchfab.com/3d-models/flat-screen-tv-46-with-stand-cc1d40351d294f6d99ee12dbd852c17c
+* author:	Jann Kuusisaari (https://sketchfab.com/jann)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flat Screen TV 46" with stand" (https://sketchfab.com/3d-models/flat-screen-tv-46-with-stand-cc1d40351d294f6d99ee12dbd852c17c) by Jann Kuusisaari (https://sketchfab.com/jann) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
