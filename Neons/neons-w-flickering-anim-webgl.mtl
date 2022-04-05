@@ -1,0 +1,21 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Physical
+Ns 96.078431
+Ka 0.101961 0.054902 0.015686
+Kd 0.854902 0.980392 1.000000
+Ks 0.013804 0.016863 0.018118
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wood_Dark
+Ns 96.078431
+Ka 0.101961 0.054902 0.015686
+Kd 1.000000 1.000000 1.000000
+Ks 0.030196 0.030196 0.030196
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WoodDark_COLOR.png
