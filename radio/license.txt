@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Radio asset
+* source:	https://sketchfab.com/3d-models/old-radio-asset-1964f665e352451484eab70ecffb87d4
+* author:	Whostea (https://sketchfab.com/Whostea)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Radio asset" (https://sketchfab.com/3d-models/old-radio-asset-1964f665e352451484eab70ecffb87d4) by Whostea (https://sketchfab.com/Whostea) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
