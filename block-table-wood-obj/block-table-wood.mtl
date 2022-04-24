@@ -1,0 +1,22 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Black_Physical
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.047059 0.047059 0.047059
+Ks 0.000392 0.000392 0.000392
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wood_Physical
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000392 0.000392 0.000392
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Wood 100.jpg
+map_Kd Wood 100.jpg
