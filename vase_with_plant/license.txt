@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vase with plant
+* source:	https://sketchfab.com/3d-models/vase-with-plant-3a9c8f2e2e3a4696ae54b5c26c366dc1
+* author:	Huargenn (https://sketchfab.com/Huargenn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vase with plant" (https://sketchfab.com/3d-models/vase-with-plant-3a9c8f2e2e3a4696ae54b5c26c366dc1) by Huargenn (https://sketchfab.com/Huargenn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
