@@ -1,0 +1,43 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Broken_Glass_Texture_1_by_FantasyStock
+Ns 96.078431
+Ka 0.529412 0.372549 0.372549
+Kd 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Broken_Glass_Texture_1_by_FantasyStock.jpg
+map_d Broken_Glass_Texture_1_by_FantasyStock.jpg
+
+newmtl Carpet0006_2_M
+Ns 96.078431
+Ka 0.529412 0.372549 0.372549
+Kd 0.768627 0.776471 0.917647
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Carpet0006_2_M.jpg
+
+newmtl Stainless_Steel
+Ns 96.078431
+Ka 0.529412 0.372549 0.372549
+Kd 1.000000 1.000000 1.000000
+Ks 0.080784 0.089804 0.092941
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Stainless-Steel.jpg
+
+newmtl balls
+Ns 96.078431
+Ka 0.529412 0.372549 0.372549
+Kd 0.745098 0.823529 0.866667
+Ks 0.080784 0.089804 0.092941
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Stainless-Steel.jpg
