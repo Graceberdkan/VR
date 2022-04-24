@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modern Nightstand
+* source:	https://sketchfab.com/3d-models/modern-nightstand-65bf302726be4dbdb31fc9394cd83746
+* author:	Blaž Mraz (https://sketchfab.com/Mraz3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modern Nightstand" (https://sketchfab.com/3d-models/modern-nightstand-65bf302726be4dbdb31fc9394cd83746) by Blaž Mraz (https://sketchfab.com/Mraz3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
